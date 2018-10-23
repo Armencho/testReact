@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+}
+.DeleteBtn {
+    float: left;
+    cursor: pointer;
+}
+.EditBtn {
+    float: right;
+}
+.textWhite{
+    color: white;
+}
+.nameText{
+    text-align: center;
+}
